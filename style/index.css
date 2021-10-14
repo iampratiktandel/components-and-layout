@@ -1,0 +1,47 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+}
+
+/* ------------------------ */
+/* GENERAL STYLES */
+/* ------------------------ */
+body {
+  font-family: 'Inter', sans-serif;
+}
+
+
+/* ------------------------ */
+/* NAVBAR */
+/* ------------------------ */
+.navbar {
+  background-color: #8ce99a;
+  height: 50px;
+  padding: 10px;
+}
+
+.navbar-list {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  list-style: none;
+}
+
+.nav-link {
+  text-decoration: none;
+  font-size: 24px;
+  font-weight: 600;
+}
+
+.nav-link:link{
+  color: #212529;
+}
+
+.nav-link:visited {
+  color: #212529;
+}
+
+.nav-link:hover {
+  color: #868e96;
+}
