@@ -17,8 +17,8 @@ body {
 /* ------------------------ */
 .navbar {
   background-color: #8ce99a;
-  height: 50px;
-  padding: 10px;
+  height: 70px;
+  padding: 20px;
 }
 
 .navbar-list {
@@ -43,5 +43,5 @@ body {
 }
 
 .nav-link:hover {
-  color: #868e96;
+  color: #495057;
 }
